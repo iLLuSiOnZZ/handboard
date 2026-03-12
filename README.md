@@ -58,7 +58,7 @@
 ### Run Locally
 
 ```bash
-git clone https://github.com/your-username/handboard.git
+git clone https://github.com/iLLuSiOnZZ/handboard.git
 cd handboard
 npm install
 npm run dev
@@ -72,23 +72,6 @@ Open `http://localhost:5173` and **allow camera access** when prompted.
 npm run build
 # Outputs to dist/
 ```
-
-### Deploy to GitHub Pages
-
-1. Update `vite.config.js` — set `base` to your repo name:
-   ```js
-   base: '/handboard/'
-   ```
-2. Add homepage to `package.json`:
-   ```json
-   "homepage": "https://your-username.github.io/handboard"
-   ```
-3. Run:
-   ```bash
-   npm run deploy
-   ```
-
----
 
 ## 🏗️ Architecture
 
