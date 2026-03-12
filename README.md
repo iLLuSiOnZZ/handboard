@@ -38,7 +38,7 @@
 | Key | Action |
 |---|---|
 | `Ctrl + Z` | Undo |
-| `Ctrl + Shift + X` | Clear canvas |
+| `Delete` | Clear canvas |
 | `Ctrl + S` | Export PNG |
 | `1` | Select Pen |
 | `2` | Select Rectangle |
