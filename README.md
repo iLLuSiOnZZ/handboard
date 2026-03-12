@@ -2,7 +2,7 @@
 
 > An Excalidraw-style whiteboard you control entirely with hand gestures — no mouse, no touch, just your hands.
 
-![HandBoard Preview](https://raw.githubusercontent.com/your-username/handboard/main/preview.png)
+![HandBoard Preview](https://raw.githubusercontent.com/iLLuSiOnZZ/handboard/main/preview.png)
 
 ## ✨ Features
 
